@@ -1,0 +1,18 @@
+h1{
+    text-shadow: 2px 2px red;
+}
+a:link{
+    color: black;
+
+}
+a:hover{
+    color: orange;
+}
+a:active{
+    color: brown;
+}
+
+
+a:visited{
+    color: green;
+}
